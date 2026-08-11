@@ -14,7 +14,7 @@
 
 ```yaml
 name: Whiziy
-role: Telegram Bot Developer & Web Developer
+role: Software Engineering
 location: Indonesia
 focus: Telegram Bot Development, Website Development
 fun_fact: "Always debugging life one commit at a time"
