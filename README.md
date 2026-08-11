@@ -14,12 +14,12 @@
 
 ```yaml
 name: Whiziy
-role: Software Engineering
+role: Telegram Bot Developer & Web Developer
 location: Indonesia
-focus: Website Development, Telegram Bot Development
+focus: Telegram Bot Development, Website Development
 fun_fact: "Always debugging life one commit at a time"
 ```
-
+  
 <br/>
 
 ## 🛠️ Tech Stack
@@ -44,12 +44,12 @@ fun_fact: "Always debugging life one commit at a time"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Whiziy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiziy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Whiziy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Whiziy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Whiziy&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" />
+<img src="https://streak-stats.demolab.com?user=Whiziy&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" />
 
 </div>
 
