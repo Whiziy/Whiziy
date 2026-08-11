@@ -76,10 +76,12 @@ fun_fact: "Always debugging life one commit at a time"
 
 <br/>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 <br/>
 
-<img src="https://count.getloli.com/get/@Whiziy?theme=moebooru" alt="Visitor Count" />
+<img src="https://count.getloli.com/get/@Whiziy?theme=moebooru" alt="Visitor Count" width="500" />
 
 </div>
