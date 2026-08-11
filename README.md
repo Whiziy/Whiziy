@@ -19,7 +19,7 @@ location: Indonesia
 focus: Telegram Bot Development, Website Development
 fun_fact: "Always debugging life one commit at a time"
 ```
-  
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -77,5 +77,9 @@ fun_fact: "Always debugging life one commit at a time"
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<br/>
+
+<img src="https://count.getloli.com/get/@Whiziy?theme=moebooru" alt="Visitor Count" />
 
 </div>
