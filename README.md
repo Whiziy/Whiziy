@@ -45,7 +45,7 @@ fun_fact: "Always debugging life one commit at a time"
 
 <div align="center">
 
-<img height="165" src="https://ghstats.dev/api/card?username=Whiziy&theme=radical" />
+<img width="500" src="https://ghstats.dev/api/card?username=Whiziy&theme=radical" />
 
 <br/>
 
