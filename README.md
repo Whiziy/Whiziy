@@ -56,16 +56,6 @@ fun_fact: "Always debugging life one commit at a time"
 
 <br/>
 
-## 🏆 Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Whiziy&theme=radical&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
