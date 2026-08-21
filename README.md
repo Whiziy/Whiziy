@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Whiziy%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Telegram%20Bot%20Developer%20|%20Web%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/Whiziy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer+%F0%9F%A4%96;Website+%26+Web+App+Builder+%F0%9F%8C%90;I+turn+ideas+into+working+bots;Let's+connect+%26+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer+%F0%9F%A4%96;Website+%26+Web+App+Builder+%F0%9F%8C%90;I+turn+ideas+into+working+bots;Let's+connect+%26+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -49,6 +49,9 @@ fun_fact: "Always debugging life one commit at a time"
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=Whiziy&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" />
+
+<br/>
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Whiziy&theme=radical&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=fff&hide_border=true" />
 
@@ -60,7 +63,7 @@ fun_fact: "Always debugging life one commit at a time"
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Whiziy&theme=radical&no-frame=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=Whiziy&theme=radical&no-frame=true&column=7&margin-w=10&rank=-UNKNOWN" />
 
 </div>
 
